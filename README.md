@@ -55,4 +55,6 @@ Valgt bort?
 * Default methods
 * Tuples og Functions
 
-Oppslagsverk: https://leanpub.com/whatsnewinjava8
+Oppslagsverk: 
+* Bok: https://leanpub.com/whatsnewinjava8
+* Kodeeksempler: https://github.com/winterbe/java8-tutorial/blob/master/README.md
